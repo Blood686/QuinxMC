@@ -1,1 +1,26 @@
+/* styles.css */
+body {
+  font-family: sans-serif;
+  background: #121212;
+  color: white;
+  text-align: center;
+}
+header {
+  background: #ff0000;
+  padding: 2rem;
+}
+.button {
+  background: black;
+  color: white;
+  padding: 0.5rem 1rem;
+  text-decoration: none;
+}
+section {
+  margin: 2rem;
+}
+footer {
+  margin-top: 4rem;
+  font-size: 0.8rem;
+  color: #999;
+}
 
